@@ -1,6 +1,6 @@
 # Rockets 
 Original Board Game <br/>
-*Currently working on a heuristic A.I with minimax algorithm*
+*Currently working on a heuristic A.I with minimax algorithm* <br/>
 This game is invented by Ammar Hatem. Designed and programmed by Fareed Barakeh.
 
 RULES: <br/>
